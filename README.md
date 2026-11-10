@@ -2,6 +2,13 @@
 
 # Alibi
 
+## Fork 来源
+
+本仓库 [fukang0611/Alibi](https://github.com/fukang0611/Alibi) fork 自
+[Myzel394/Alibi](https://github.com/Myzel394/Alibi)，原作者为
+[Myzel394](https://github.com/Myzel394)。保留原项目的版权声明与 GPL-3.0 许可证，
+后续修改在本 fork 中维护。下方原项目的下载、赞助与贡献链接予以保留。
+
 <p float="left" align="center">
     <img src="fastlane/metadata/android/en-US/images/phoneScreenshots/01.webp" width="30%" />
     <img src="fastlane/metadata/android/en-US/images/phoneScreenshots/02.webp" width="30%" />
